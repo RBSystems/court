@@ -1,0 +1,13 @@
+*.zip
+*.hash
+*.ASV
+*.vtz
+*.sgd_
+*.bak
+*.pcapng
+*.jpg
+SPlsWork/
+court*/
+televic/
+a2d/
+
